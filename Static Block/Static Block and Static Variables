@@ -1,0 +1,13 @@
+Java Supports Static blocks
+
+If block is preceeded with the reserved word static ,it is called "static block".
+
+A static block gets executed prior to the main() method.
+
+Static block can be written before and after main() method.
+
+The static blocks make use of static variables which are declared out of its scope.
+
+Non static variables cannot be used in static blocks
+
+Static variables by default are initialized to zero.
